@@ -1,0 +1,20 @@
+.time {
+}
+
+.username {
+	padding-left: 5px;
+}
+
+.message {
+	padding-left: 5px;
+}
+
+.Comment {
+	padding-bottom: 40px;
+	background-color: gray;
+}
+
+p {
+	float: left;
+	font-size: 12px;
+}

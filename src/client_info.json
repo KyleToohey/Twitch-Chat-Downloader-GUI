@@ -1,0 +1,5 @@
+{
+	"id": "<INSERT CLIENT ID HERE>",
+	"secret": "<INSERT CLIENT SECRET HERE>",
+	"token": "<INSERT CLIENT TOKEN HERE>"
+}

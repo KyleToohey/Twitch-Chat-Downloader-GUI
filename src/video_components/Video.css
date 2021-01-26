@@ -1,0 +1,21 @@
+.Video {
+	padding-bottom: 40px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	width: 200px;
+}
+
+.Video:hover {
+	background-color: gray;
+}
+
+.thumbnail {
+	align-self: center;
+}
+
+p  {	
+	text-align: center;
+	display: inline;
+	margin: 0px;
+}
