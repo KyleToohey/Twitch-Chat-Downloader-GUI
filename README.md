@@ -38,7 +38,7 @@ This was built with
 
 First, download this repository, and access the file '/src/client_info.json'. Then, go [here](https://dev.twitch.tv/login) and follow the instructions to get a client ID and secret. Put them in the corresponding fields in the JSON. Then, run the following commands:
 
-`node generate_token`
+`node generate_token` <br>
 `npm install axios`
 
 These two commands will create the token needed by the app, and install AXIOS, which is needed for the app. Finally, while in the project directory in command line, run these two commands simultaneously
