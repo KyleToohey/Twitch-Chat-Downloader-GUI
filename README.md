@@ -36,7 +36,7 @@ This was built with
 
 **I have yet to do the steps to make this run outside of localhost or create-react-app, so the directions below are equivalent to how you would run it when developing a react app in this framework. This will be made easier in the future.**
 
-First, download this repository, and access the file '/src/client_info.json'. Then, go [here](https://dev.twitch.tv/login) and follow the instructions to get a client ID and secret. Put them in the corresponding fields in the JSON. Then, run the following commands:
+First, download this repository, and access the file '/src/client_info.json'. Then, go [here](https://dev.twitch.tv/login) and follow the instructions to get a client ID and secret. Put them in the corresponding fields in the JSON. Then, run the following commands in command line:
 
 `node generate_token` <br>
 `npm install axios`
